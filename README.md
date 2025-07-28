@@ -1,10 +1,5 @@
 ## Routes Dashboard Overview
 
-|                     |
-|---------------------|
-| **Routes Dashboard Overview** |
-
-```plaintext
 Title: Routes Dashboard Overview
 Description: This section displays key metrics and visualizations for air transport analysis, including:
 - Total Airports: 7,537
